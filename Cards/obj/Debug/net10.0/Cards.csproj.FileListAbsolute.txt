@@ -1,0 +1,14 @@
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.AssemblyInfoInputs.cache
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.AssemblyInfo.cs
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.csproj.CoreCompileInputs.cache
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\bin\Debug\net10.0\Cards.exe
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\bin\Debug\net10.0\Cards.deps.json
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\bin\Debug\net10.0\Cards.runtimeconfig.json
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\bin\Debug\net10.0\Cards.dll
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\bin\Debug\net10.0\Cards.pdb
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.dll
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\refint\Cards.dll
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.pdb
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\Cards.genruntimeconfig.cache
+C:\Users\giald\OneDrive\personal\personal coding stuff\Cards\Cards\obj\Debug\net10.0\ref\Cards.dll
