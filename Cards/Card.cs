@@ -11,26 +11,26 @@
         }
         internal enum Rank  
         {
-            Ace = 1,
-            Two = 2,
-            Three = 3,
-            Four = 4,
-            Five = 5,
-            Six = 6,
-            Seven = 7,
-            Eight = 8,
-            Nine = 9,
-            Ten = 10,
-            Jack = 11,
-            Queen = 12,
-            King = 13
+            Ace,
+            Two,
+            Three,
+            Four,
+            Five,
+            Six,
+            Seven,
+            Eight,
+            Nine,
+            Ten,
+            Jack,
+            Queen,
+            King
         }
 
         public Rank rank;
         public Suit suit;
 
         // My 2 read-onlys
-        public int Value => (int)rank;
+        public int Value => BlackJackRules.GetValue(this);
         public string DisplayName => $"{rank} of {suit}";
 
         // ToString() the Displayname so like then it's like actually read-onmy
